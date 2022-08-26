@@ -3,9 +3,10 @@
 # e.g. sum(10,3) => 13
 
 # how to execute the code
+# cd exercice-1
 # bundle install
 # bundle exec rspec
 
 def sum(num1, num2)
-  return 0
+ return  0
 end
